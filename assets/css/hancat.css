@@ -7,7 +7,7 @@ limeneko *fudujilm
 */
 
 body{
-	background-image:url('http://quanjiatong.ltd/api.php');
+	background-image:url('https://api.hancat.link/cloud/api.php');
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
@@ -111,7 +111,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(http://39.103.236.238:19090/public/img/img_hennyano_body.png) left bottom/contain no-repeat
+    background: url(./images/img_hennyano_body.png) left bottom/contain no-repeat
 }
 .sw-Hennnyano .eyes {
     width: 100%;
@@ -119,7 +119,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(http://39.103.236.238:19090/public/img/img_hennyano_eyes.png) left bottom/contain no-repeat
+    background: url(./images/img_hennyano_eyes.png) left bottom/contain no-repeat
 }
 
 @media(any-hover: hover) {
